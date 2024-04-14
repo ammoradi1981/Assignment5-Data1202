@@ -6,8 +6,17 @@ This repository comprises scripts and notebooks for analyzing a YouTube dataset.
 ## Getting Started
 
 ## Prerequisites
+Google Colab: Users will need access to Google Colab, a free cloud-based Jupyter notebook environment, to run the project notebooks.
+Python: Since Google Colab supports Python, users should have a basic understanding of Python programming language.
+With these prerequisites, users can easily access and run the project in a Google Colab environment.
 
 ## Installing
+Since the project only requires Google Colab and Python, you might not need an "Installing" section. However, before running the project notebooks, ensure that you have installed the necessary dependencies. You can do this by executing the following commands in a code cell within Google Colab:
+!pip install pandas
+!pip install numpy
+!pip install matplotlib
+!pip install seaborn
+!pip install scipy
 
 ## Running the Tests
 
@@ -15,14 +24,19 @@ This repository comprises scripts and notebooks for analyzing a YouTube dataset.
 
 ## Deployment
 
-## Author
+## Authors
+Amirmohammad Moradi
+Yasaman Mirshahi
+Vishal Kochuparampu Roy
+Maisha Khatoon 
+Vyomeshkumar Nayi
 
 ## License
-
-
-
+This project is currently unlicensed.
 
 ## Acknowledgement
+We would like to express our gratitude to Shamindra Peiris and Durham Colllege for their invaluable contributions and support throughout the development of this project. Their guidance and assistance have been instrumental in its success
+
 
 
 
