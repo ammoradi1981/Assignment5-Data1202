@@ -7,6 +7,23 @@ This repository comprises scripts and notebooks for analyzing a YouTube dataset.
 
 ## Prerequisites
 
+## Installing
+
+## Running the Tests
+
+## Breakdown of Tests
+
+## Deployment
+
+## Author
+
+## License
+
+
+
+
+## Acknowledgement
+
 
 
 
