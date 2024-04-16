@@ -25,11 +25,11 @@ Since the project only requires Google Colab and Python, you might not need an "
 ## Deployment
 
 ## Authors
-Amirmohammad Moradi
-Yasaman Mirshahi
-Vishal Kochuparampu Roy
-Maisha Khatoon 
-Vyomeshkumar Nayi
+Amirmohammad Moradi,
+Yasaman Mirshahi,
+Vishal Kochuparampu Roy,
+Maisha Khatoon,
+Vyomeshkumar Nayi,
 
 ## License
 This project is currently unlicensed.
