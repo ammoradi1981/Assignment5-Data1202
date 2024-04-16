@@ -44,7 +44,7 @@ Vishal Kochuparampu Roy,
 This project is currently unlicensed.
 
 ## Acknowledgement
-We would like to express our gratitude to Shamindra Peiris and Durham Colllege for their invaluable contributions and support throughout the development of this project. Their guidance and assistance have been instrumental in its success
+We would like to express our gratitude to Shamindra Peiris (Professor) and Durham Colllege for their invaluable contributions and support throughout the development of this project. Their guidance and assistance have been instrumental in its success
 
 
 
