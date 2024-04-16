@@ -31,9 +31,13 @@ The project can indeed be deployed on Colab, which provides a convenient cloud-b
 
 ## Authors
 Amirmohammad Moradi,
+
 Yasaman Mirshahi,
+
 Maisha Khatoon,
+
 Vyomeshkumar Nayi,
+
 Vishal Kochuparampu Roy,
 
 ## License
