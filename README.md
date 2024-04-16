@@ -19,6 +19,7 @@ Since the project only requires Google Colab and Python, you might not need an "
 !pip install scipy
 
 ## Running the Tests
+There were no specific tests designed for this project. However, we conducted tests to clean, and visualize data. 
 
 ## Breakdown of Tests
 Data Validation Tests: These tests ensure the integrity and consistency of the dataset by checking for missing values, and irrelevant columns.
