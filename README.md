@@ -23,12 +23,17 @@ Since the project only requires Google Colab and Python, you might not need an "
 ## Breakdown of Tests
 
 ## Deployment
+The project can indeed be deployed on Colab, which provides a convenient cloud-based Jupyter notebook environment. Users can access and run the project notebooks directly on Colab without the need for any local installation.
 
 ## Authors
 Amirmohammad Moradi,
+
 Yasaman Mirshahi,
+
 Vishal Kochuparampu Roy,
+
 Maisha Khatoon,
+
 Vyomeshkumar Nayi,
 
 ## License
